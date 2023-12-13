@@ -1,4 +1,4 @@
-![](ProductServiceApi/SwaggerUi.png)
+![](https://github.com/EnderBAKIR/ProductService.Api/blob/main/ProductServiceApi/ProductServiceApi/DeleteProduct.PNG)
 ![](ProductServiceApi/GetSingleCategory.PNG)
 ![](ProductServiceApi/GetProduct.PNG)
 ![](ProductServiceApi/GetProductId.PNG)
