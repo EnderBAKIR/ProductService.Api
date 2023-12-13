@@ -1,4 +1,4 @@
-![](ProductServiceApi/SwaggerUi.PNG)
+![](ProductServiceApi/SwaggerUi.png)
 ![](ProductServiceApi/GetSingleCategory.PNG)
 ![](ProductServiceApi/GetProduct.PNG)
 ![](ProductServiceApi/GetProductId.PNG)
